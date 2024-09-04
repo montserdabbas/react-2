@@ -5,7 +5,7 @@ import Products from './Components/Products';
 export default function App() {
   return (
     <>
-      <Counter />
+      
       <Products/>
     </>
   );
